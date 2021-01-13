@@ -1,0 +1,8 @@
+{
+    "name":"ascurrajdev/prueba",
+    "description": "Este es un paquete hecho para practicas del taller creacion de librerias",
+    "version": "0.0.1",
+    "autoload": {
+        "psr-4": {"Prueba\\":"src/"}
+    }
+}
